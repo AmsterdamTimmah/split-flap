@@ -23,6 +23,7 @@
 #else
     #include "config.h"
 #endif
+#include "secrets.h"
 
 // Function headers
 void print_test_menu ();

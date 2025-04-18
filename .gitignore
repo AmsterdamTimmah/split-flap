@@ -4,3 +4,6 @@
 .vscode/launch.json
 .vscode/ipch
 include/config-private.h
+
+# Exclude secrets.h from version control
+src/secrets.h
